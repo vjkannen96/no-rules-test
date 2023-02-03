@@ -1,0 +1,3 @@
+# no-rules-test
+
+anarchy
